@@ -1,0 +1,39 @@
+{
+  "summary": {
+    "totalScreenTime": "39j 28m",
+    "focusTime": "22j 18m",
+    "distractionTime": "17j 10m",
+    "productivityScore": 56.5
+  },
+  "screenTimePerDay": [
+    { "day": "Sen, 07/04", "menit": 380 },
+    { "day": "Sel, 08/04", "menit": 360 },
+    { "day": "Rab, 09/04", "menit": 340 },
+    { "day": "Kam, 10/04", "menit": 320 },
+    { "day": "Jum, 11/04", "menit": 300 },
+    { "day": "Sab, 12/04", "menit": 280 },
+    { "day": "Min, 13/04", "menit": 260 }
+  ],
+  "topApps": [
+    { "name": "VS Code", "minutes": 700 },
+    { "name": "YouTube", "minutes": 600 },
+    { "name": "Instagram", "minutes": 500 },
+    { "name": "Chrome", "minutes": 400 },
+    { "name": "TikTok", "minutes": 300 },
+    { "name": "Spotify", "minutes": 200 }
+  ],
+  "focusDistraction": {
+    "focusMinutes": 1338,
+    "distractionMinutes": 1030
+  },
+  "scatterData": [
+    { "screenTime": 260, "productivity": 75 },
+    { "screenTime": 280, "productivity": 70 },
+    { "screenTime": 300, "productivity": 65 },
+    { "screenTime": 320, "productivity": 60 },
+    { "screenTime": 340, "productivity": 55 },
+    { "screenTime": 360, "productivity": 50 },
+    { "screenTime": 380, "productivity": 45 },
+    { "screenTime": 400, "productivity": 40 }
+  ]
+}
